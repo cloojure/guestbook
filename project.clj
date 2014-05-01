@@ -4,6 +4,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.1.6"]
                  [hiccup "1.0.5"]
+                 [lib-noir "0.8.2"]
                  [ring-server "0.3.1"]
                  [org.clojure/java.jdbc "0.2.3"]
                  [org.xerial/sqlite-jdbc "3.7.2"] ]
